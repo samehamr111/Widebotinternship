@@ -1,0 +1,14 @@
+important notes :
+1-fee 3700 row feehom nulls mn asl 3701
+#kda elomit msh hynf3
+2-fee column mtkarar fee elnulls 2145 mara mmkn yt3mlo omit  variable 18
+3-ellink dh mohem 5leeh m3ana
+https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+https://code.likeagirl.io/how-to-use-python-to-remove-or-modify-empty-values-in-a-csv-dataset-34426c816347
+4-ellink dh feeh shwayet classification algorithms 5aleeh m3ak :
+https://www.kaggle.com/hammadzahidali/classification-tutorial-machine-learning
+
+5-11,15,19--> int  14,17---> float elba2y of type object
+
+final step reached ---> data is numeric and ready for classification heeuehe
+5-Normalization increases te learnin rate w msh byeffect ay 7aga 3ady gedan huehueuheu
